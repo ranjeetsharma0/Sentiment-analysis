@@ -2,7 +2,7 @@ from transformers import AutoTokenizer,AutoModelForSequenceClassification
 from scipy.special import softmax
 
 
-tweet = "today is a really nice day i feel so happy"
+tweet = "might die from laughter"
 
 
 #preprocess tweets
